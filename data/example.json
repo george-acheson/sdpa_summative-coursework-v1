@@ -1,0 +1,35 @@
+{
+  "duration": 6,
+  "demands": [
+    {
+      "loaf": 100,
+      "bun": 80,
+      "slice": 60
+    },
+    {
+      "loaf": 100,
+      "bun": 80,
+      "slice": 60
+    },
+    {
+      "loaf": 100,
+      "bun": 80,
+      "slice": 60
+    },
+    {
+      "loaf": 100,
+      "bun": 80,
+      "slice": 60
+    },
+    {
+      "loaf": 100,
+      "bun": 80,
+      "slice": 60
+    },
+    {
+      "loaf": 100,
+      "bun": 80,
+      "slice": 60
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "workforce": 1,
+    "sales": {
+      "loaf": 40,
+      "bun": 20,
+      "slice": 10
+    },
+    "purchases": {
+      "flour": 220,
+      "butter": 67,
+      "fruit": 96
+    }
+  },
+  {
+    "workforce": 1,
+    "sales": {
+      "loaf": 40,
+      "bun": 20,
+      "slice": 10
+    },
+    "purchases": {
+      "flour": 220,
+      "butter": 67,
+      "fruit": 96
+    }
+  },
+  {
+    "workforce": 1,
+    "sales": {
+      "loaf": 40,
+      "bun": 20,
+      "slice": 10
+    },
+    "purchases": {
+      "flour": 220,
+      "butter": 67,
+      "fruit": 96
+    }
+  },
+  {
+    "workforce": 1,
+    "sales": {
+      "loaf": 40,
+      "bun": 20,
+      "slice": 10
+    },
+    "purchases": {
+      "flour": 220,
+      "butter": 67,
+      "fruit": 96
+    }
+  },
+  {
+    "workforce": 1,
+    "sales": {
+      "loaf": 40,
+      "bun": 20,
+      "slice": 10
+    },
+    "purchases": {
+      "flour": 220,
+      "butter": 67,
+      "fruit": 96
+    }
+  },
+  {
+    "workforce": 1,
+    "sales": {
+      "loaf": 40,
+      "bun": 20,
+      "slice": 10
+    },
+    "purchases": {
+      "flour": 220,
+      "butter": 67,
+      "fruit": 96
+    }
+  }
+]

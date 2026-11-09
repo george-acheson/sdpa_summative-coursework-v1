@@ -1,0 +1,55 @@
+{
+  "duration": 6,
+  "demands": [
+    {
+      "loaf": 20,
+      "bun": 10,
+      "slice": 10
+    },
+    {
+      "loaf": 20,
+      "bun": 10,
+      "slice": 10
+    },
+    {
+      "loaf": 20,
+      "bun": 10,
+      "slice": 10
+    },
+    {
+      "loaf": 20,
+      "bun": 10,
+      "slice": 10
+    },
+    {
+      "loaf": 20,
+      "bun": 10,
+      "slice": 10
+    },
+    {
+      "loaf": 20,
+      "bun": 10,
+      "slice": 10
+    }
+  ],
+  "orders": [
+    {
+      "id": "A",
+      "product_id": "loaf",
+      "quantity": 2,
+      "collection_week": 1
+    },
+    {
+      "id": "B",
+      "product_id": "bun",
+      "quantity": 3,
+      "collection_week": 3
+    },
+    {
+      "id": "C",
+      "product_id": "slice",
+      "quantity": 2,
+      "collection_week": 6
+    }
+  ]
+}
